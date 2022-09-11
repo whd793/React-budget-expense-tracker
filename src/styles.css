@@ -1,0 +1,29 @@
+.nav-item {
+  cursor: pointer;
+  background: black;
+  color: white;
+  margin: 1px;
+  display: inline-block;
+  border-radius: 10px;
+  font-size: 13px;
+}
+
+.lineBar {
+  /* display: inline-block; */
+  /* width:100%; */
+  margin: 10px auto;
+  float: center;
+}
+
+.lineBart {
+  display: inline-block;
+  width: 100%;
+  margin: 10px auto;
+  font-size: 18px;
+  text-align: center;
+}
+/* 
+.nav-item:hover {
+  font-size: 90%;
+  background: #0e0e0e;
+} */
